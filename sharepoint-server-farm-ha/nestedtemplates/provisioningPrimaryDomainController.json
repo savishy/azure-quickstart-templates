@@ -124,7 +124,7 @@
             "autoUpgradeMinorVersion": true,
             "settings": {
               "modulesURL": "[parameters('adPDCModulesURL')]",
-              "wmfVersion": "4.0",
+              "wmfVersion": "5.0",
               "configurationFunction": "[parameters('adPDCConfigurationFunction')]",
               "properties": {
                 "domainName": "[parameters('domainName')]",
